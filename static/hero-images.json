@@ -1,0 +1,20 @@
+{
+	"card": {
+		"front": [
+			"/images/cards/front/blue-eyes-white-dragon.webp",
+			"/images/cards/front/herald-of-ultimateness.webp",
+			"/images/cards/front/mirrorjade-the-iceblade-dragon.webp",
+			"/images/cards/front/divine-arsenal-aa-zeus.webp",
+			"/images/cards/front/baronne-de-fleur.webp",
+			"/images/cards/front/eldlich-the-golden-lord.webp",
+			"/images/cards/front/the-arrival-cyberse-@ignister.webp",
+			"/images/cards/front/called-by-the-grave.webp",
+			"/images/cards/front/infinite-impermanence.webp"
+		],
+		"back": "/images/cards/card-back.webp"
+	},
+	"chart": {
+		"bar": "/images/charts/bar.webp",
+		"pie": "/images/charts/pie.webp"
+	}
+}

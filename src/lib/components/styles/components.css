@@ -1,0 +1,23 @@
+:root {
+	--g-z-index-modal: 100;
+	--g-z-index-overlay: 90;
+	--g-z-index-header: 50;
+
+	--g-border-radius: 0.5rem;
+	--g-border-radius-full: 9999px;
+
+	--g-padding-xs: 0.5rem;
+	--g-padding-sm: 0.75rem;
+	--g-padding-md: 1rem;
+	--g-padding-lg: 1.25rem;
+
+	--g-gap-xs: 0.25rem;
+	--g-gap-sm: 0.5rem;
+	--g-gap-md: 1rem;
+	--g-gap-lg: 1.5rem;
+	--g-gap-xl: 2rem;
+
+	--g-border-width-sm: 1px;
+	--g-border-width-md: 2px;
+	--g-border-width-lg: 3px;
+}

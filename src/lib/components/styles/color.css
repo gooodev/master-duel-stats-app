@@ -1,0 +1,46 @@
+:root {
+	--g-color-base-100: hsl(222.22 47.368% 11.176%);
+	--g-color-base-200: hsl(222.22 47.368% 10.059%);
+	--g-color-base-300: hsl(222.22 47.368% 9.0529%);
+	--g-color-base-content: hsl(222.22 65.563% 82.235%);
+
+	--g-color-primary: hsl(198.44 93.204% 59.608%);
+	--g-color-primary-focus: hsl(198.44 93.204% 47.686%);
+	--g-color-primary-content: hsl(198.44 100% 11.922%);
+
+	--g-color-secondary: hsl(234.45 89.474% 73.922%);
+	--g-color-secondary-focus: hsl(234.45 89.474% 59.137%);
+	--g-color-secondary-content: hsl(234.45 100% 14.784%);
+
+	--g-color-neutral: hsl(217.24 32.584% 17.451%);
+	--g-color-neutral-focus: hsl(217.06 30.357% 21.961%);
+	--g-color-neutral-content: hsl(217.24 75.772% 83.49%);
+
+	--g-color-accent: hsl(328.85 85.621% 70%);
+	--g-color-accent-focus: hsl(328.85 85.621% 56%);
+	--g-color-accent-content: hsl(328.85 100% 14%);
+
+	--g-color-success: hsl(172.46 66.008% 50.392%);
+	--g-color-success-content: hsl(172.46 100% 10.078%);
+
+	--g-color-warning: hsl(40.61 88.172% 63.529%);
+	--g-color-warning-content: hsl(40.61 100% 12.706%);
+
+	--g-color-error: hsl(350.94 94.558% 71.176%);
+	--g-color-error-content: hsl(350.94 100% 14.235%);
+
+	--g-color-info: hsl(198.46 90.204% 48.039%);
+	--g-color-info-content: hsl(198.46 100% 9.6078%);
+
+	--g-color-ghost: transparent;
+	--g-color-ghost-content: var(--g-color-base-content);
+	--g-color-ghost-focus: hsl(222.22 65.563% 82.235% / 0.2);
+
+	--g-filter-lighten: brightness(1.2);
+	--g-filter-darken: brightness(0.8);
+}
+
+body {
+	background-color: var(--g-color-base-100);
+	color: var(--g-color-base-content);
+}

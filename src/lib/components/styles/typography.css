@@ -1,0 +1,27 @@
+:root {
+	font-size: 16px;
+
+	--g-font-family-base: 'Noto Sans JP', 'Open Sans', sans-serif;
+	--g-font-family-heading: 'Orbitron', sans-serif;
+
+	--g-font-weight-regular: 400;
+	--g-font-weight-bold: 700;
+
+	--g-font-size-text-xs: 0.5rem;
+	--g-font-size-text-sm: 0.75rem;
+	--g-font-size-text-md: 1rem;
+	--g-font-size-text-lg: 1.25rem;
+	--g-font-size-text-xl: 1.5rem;
+
+	--g-font-size-icon-xs: 0.5rem;
+	--g-font-size-icon-sm: 1rem;
+	--g-font-size-icon-md: 1.25rem;
+	--g-font-size-icon-lg: 1.5rem;
+	--g-font-size-icon-xl: 2rem;
+}
+
+body {
+	font-family: var(--g-font-family-base);
+	line-height: 1.3;
+	font-weight: var(--g-font-weight-regular);
+}
